@@ -6,9 +6,9 @@ import UserTable from './tables/UserTable'
 const App = () => {
 	// Data
 	const usersData = [
-		{ id: 1, name: 'Tania', username: 'floppydiskette' },
-		{ id: 2, name: 'Craig', username: 'siliconeidolon' },
-		{ id: 3, name: 'Ben', username: 'benisphere' },
+		{ id: 1, name: 'Anusha', username: 'Anu' },
+		{ id: 2, name: 'Test', username: 'Test' },
+		{ id: 3, name: 'Dummy', username: 'Dummy' },
 	]
 
 	const initialFormState = { id: null, name: '', username: '' }
